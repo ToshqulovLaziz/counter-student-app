@@ -1,0 +1,32 @@
+.card {
+    background-color: #fff;
+    box-shadow: 0px 4px 20px #E5E9FD;
+}
+.card-title {
+    margin-bottom: 20px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    color: #000;
+}
+.card-date {
+    margin-bottom: 0;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 26px;
+    color: #9C9C9C;
+}
+
+.card-link {
+    text-decoration: none;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 26px;
+    color: #0A7F2E;
+}
+.card-link:hover {
+    color: #0A7F2E;
+}
+.card-link__img {
+    margin-left: 15px;
+}
